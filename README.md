@@ -66,4 +66,5 @@ Sector-level rates are calculated using totals across the study period rather th
 5. Open the Power BI dashboard in Power BI Desktop.
 
 ## Author
-Data Analytics Portfolio Project
+NURSE USMAN JA'AFAR ABDULLAHI
+
