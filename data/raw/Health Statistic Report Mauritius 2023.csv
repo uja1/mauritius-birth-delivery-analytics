@@ -1,0 +1,33 @@
+Year,Year Date,Sector,Period,Deliveries,Caesarean,Vaginal,Live Births,LBW Births,Stillbirths,Total Births,Data Basis
+2008,01/01/2008,Government hospitals,2008-2019 Pre-COVID,12497,4984,7513,12467,2086,156,12623,Published counts
+2008,01/01/2008,Private clinics,2008-2019 Pre-COVID,3001,1504,1497,3033,240,15,3048,Some counts estimated from published %
+2009,01/01/2009,Government hospitals,2008-2019 Pre-COVID,11607,4919,6688,11597,2188,115,11712,Published counts
+2009,01/01/2009,Private clinics,2008-2019 Pre-COVID,2922,1528,1394,2950,248,18,2968,Some counts estimated from published %
+2010,01/01/2010,Government hospitals,2008-2019 Pre-COVID,11161,4633,6528,11168,2145,90,11258,Published counts
+2010,01/01/2010,Private clinics,2008-2019 Pre-COVID,3022,1611,1411,3064,328,6,3070,Some counts estimated from published %
+2011,01/01/2011,Government hospitals,2008-2019 Pre-COVID,10882,4399,6483,10870,2084,110,10980,Published counts
+2011,01/01/2011,Private clinics,2008-2019 Pre-COVID,3052,1718,1334,3080,299,20,3100,Some counts estimated from published %
+2012,01/01/2012,Government hospitals,2008-2019 Pre-COVID,10639,4367,6272,10645,2039,119,10764,Published counts
+2012,01/01/2012,Private clinics,2008-2019 Pre-COVID,3016,1608,1408,3051,320,13,3064,Some counts estimated from published %
+2013,01/01/2013,Government hospitals,2008-2019 Pre-COVID,9682,4110,5572,9665,1802,102,9767,Published counts
+2013,01/01/2013,Private clinics,2008-2019 Pre-COVID,3049,1659,1390,3085,370,12,3097,Some counts estimated from published %
+2014,01/01/2014,Government hospitals,2008-2019 Pre-COVID,9304,4324,4980,9293,1750,89,9382,Published counts
+2014,01/01/2014,Private clinics,2008-2019 Pre-COVID,3392,1920,1472,3422,417,24,3446,Some counts estimated from published %
+2015,01/01/2015,Government hospitals,2008-2019 Pre-COVID,8727,4125,4602,8712,1649,92,8804,Published counts
+2015,01/01/2015,Private clinics,2008-2019 Pre-COVID,3219,1767,1452,3245,425,25,3270,Some counts estimated from published %
+2016,01/01/2016,Government hospitals,2008-2019 Pre-COVID,8743,3970,4773,8737,1513,93,8830,Published counts
+2016,01/01/2016,Private clinics,2008-2019 Pre-COVID,3550,2052,1498,3570,536,36,3606,Some counts estimated from published %
+2017,01/01/2017,Government hospitals,2008-2019 Pre-COVID,9005,4309,4696,8985,1581,96,9081,Published counts
+2017,01/01/2017,Private clinics,2008-2019 Pre-COVID,3593,2080,1513,3618,434,32,3650,Some counts estimated from published %
+2018,01/01/2018,Government hospitals,2008-2019 Pre-COVID,8495,4165,4330,8489,1641,79,8568,Published counts
+2018,01/01/2018,Private clinics,2008-2019 Pre-COVID,3662,2172,1490,3676,408,44,3720,Some counts estimated from published %
+2019,01/01/2019,Government hospitals,2008-2019 Pre-COVID,8377,4519,3858,8381,1852,94,8475,Published counts
+2019,01/01/2019,Private clinics,2008-2019 Pre-COVID,3618,2247,1371,3639,546,36,3675,Some counts estimated from published %
+2020,01/01/2020,Government hospitals,2020-2021 COVID,8473,4496,3977,8462,1688,93,8555,Published counts
+2020,01/01/2020,Private clinics,2020-2021 COVID,4031,2544,1487,4055,604,40,4095,Some counts estimated from published %
+2021,01/01/2021,Government hospitals,2020-2021 COVID,7852,4088,3764,7843,1674,93,7936,Published counts
+2021,01/01/2021,Private clinics,2020-2021 COVID,4177,2623,1554,4215,658,28,4243,Some counts estimated from published %
+2022,01/01/2022,Government hospitals,2022-2023 Recovery,6957,3778,3179,6972,1618,69,7041,Published counts
+2022,01/01/2022,Private clinics,2022-2023 Recovery,4195,2790,1405,4225,668,36,4261,Some counts estimated from published %
+2023,01/01/2023,Government hospitals,2022-2023 Recovery,7575,4321,3254,7603,1808,78,7681,Published counts
+2023,01/01/2023,Private clinics,2022-2023 Recovery,4422,3025,1397,4474,693,18,4492,Some counts estimated from published %
